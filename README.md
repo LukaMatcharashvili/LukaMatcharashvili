@@ -1,5 +1,5 @@
 ### Hi there 👋
-Highly organized and hard-working junior web developer. I am passionate about problem solving, machine learning, coding and programming in general. I am currently seeking an entry-level role in the programming industry.
+Highly organized and hard-working junior web developer. I am passionate about problem solving, machine learning, programming and technology in general. I am currently seeking an entry-level role in the programming industry.
 
 - 🌱 I’m currently learning Backend Development, Google Cloud
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/luka-macharashvili-ba8a0222b/), macharashvililuka12@gmail.com
