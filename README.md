@@ -1,7 +1,6 @@
 ### Hi there 👋
-Highly organized and hard-working junior web developer. I am passionate about problem solving, machine learning, programming and technology in general. I am currently seeking an entry-level role in the programming industry.
+Highly organized and hard-working junior web developer. I am passionate about problem solving, machine learning, programming and technology in general. I am currently working at Ozorix as a Full stack developer
 
-- 🌱 I’m currently learning Backend Development, Cloud
-- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/luka-macharashvili-ba8a0222b/), macharashvililuka12@gmail.com
+- 📫 How to reach me: macharashvililuka12@gmail.com
 - 👩‍💻 Skills:
-- 🤹‍ Nodejs / Expressjs / Angular / Nestjs /  MongoDB / MySQL / Git / TypeScript / JavaScript / TypeORM / HTML5 / CSS3 / OOP / npm / JWT / Jest / RxJS / NgRx / Software Design Patterns / SOLID / Firebase / Postman / Cloudinary / Bootstrap / Angular Material / Angular CLI / JSON / REST APIs / Back-End Development / Mean Stack / Full Stack / Front-End Development
+- 🤹‍ Nodejs / Angular / TypeScript / MongoDB / Git / JavaScript / Nestjs / Expressjs / Linux / Python / MySQL / TypeORM / HTML5 / CSS3 / OOP / npm / JWT / Jest / RxJS / NgRx / Software Design Patterns / SOLID / Firebase / Postman / Cloudinary / Bootstrap / Angular Material / Angular CLI / JSON / REST APIs / Full Stack Development
