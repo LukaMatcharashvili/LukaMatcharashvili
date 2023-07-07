@@ -14,8 +14,6 @@ c. Food Delivery Software: I actively worked on order processing and price calcu
 
 d. Currently working on CMS for Real Estate Website.
 
-One of my notable achievements includes making Next.js deployment on AWS Lambda possible. Leveraging my skills and expertise, I overcame challenges posed by new Next.js features like ISR (Incremental Static Regeneration) and On-demand ISR, enabling efficient deployment. You can find more details about this accomplishment on my GitHub repository: https://github.com/LukaMacharashvili/next.js-lambda-deployment
-
 I possess strong proficiency in using Linux as a developer, Docker for containerization, object-oriented programming (OOP) principles, and Git for efficient version control.
 
 Feel free to reach out to me via LinkedIn or email at macharashvililuka12@gmail.com.
