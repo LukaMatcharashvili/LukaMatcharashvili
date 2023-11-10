@@ -1,6 +1,6 @@
-Experienced Middle SDE | Passionate about Software Development and Data Science
+Experienced Middle SDE
 
-Greetings! I am an experienced Middle SDE with close to 1 year of professional experience, currently contributing my skills and knowledge at Ozorix as a Middle SDE. My expertise lies in software development, where I have honed my skills in a wide range of technologies, including Go, JavaScript (JS), AWS, MySQL, MongoDB, Redis, Node.js, TypeScript (TS), NestJS, HTML, CSS, Angular, React, Next.js.
+Greetings! I am an experienced Middle SDE with close to 1 year of professional experience, currently contributing my skills and knowledge at Ozorix as a Middle SDE. My expertise lies in software development, where I have honed my skills in a wide range of technologies, including Go, JavaScript (JS), AWS, Rust, MySQL, MongoDB, Redis, Node.js, TypeScript (TS), NestJS, HTML, CSS, Angular, React, Next.js.
 
 During my time at Ozorix, I have contributed to various projects that have showcased my skills and versatility. These include:
 
