@@ -1,6 +1,10 @@
 Experienced Middle SDE
 
-Greetings! I am an experienced Middle SDE with close to 1 year of professional experience, currently contributing my skills and knowledge at Ozorix as a Middle SDE. My expertise lies in software development, where I have honed my skills in a wide range of technologies, including Go, JavaScript (JS), AWS, Rust, MySQL, MongoDB, Redis, Node.js, TypeScript (TS), NestJS, HTML, CSS, Angular, React, Next.js.
+Greetings! I am an experienced Middle SDE with close to 1 year of professional experience, currently contributing my skills and knowledge at Ozorix as a Middle SDE. My expertise lies in software development, where I have honed my skills in a wide range of technologies, including Rust, AWS, Go, C#, JavaScript (JS), MySQL, MongoDB,  Node.js, TypeScript (TS), NestJS, HTML, CSS, Angular.
+
+I possess strong proficiency in using Linux as a developer, Docker for containerization, object-oriented programming (OOP) principles, domain-driven design, and Git for efficient version control. I'm currently trying to learn Functional Programming (FP), exploring languages like Haskell. My curiosity extends to low-level programming and I'm actively learning C to deepen my understanding of the intricate workings beneath the surface.
+
+I like to understand how things work under the hood, things like: ML Algorithms, Operating Systems, etc.
 
 During my time at Ozorix, I have contributed to various projects that have showcased my skills and versatility. These include:
 
@@ -11,8 +15,6 @@ b. Fleet Management System: I contributed to the development of a sophisticated 
 c. Food Delivery Software: I actively worked on order processing and price calculation logic.
 
 d. Currently working on CMS for Real Estate Website.
-
-I possess strong proficiency in using Linux as a developer, Docker for containerization, object-oriented programming (OOP) principles, and Git for efficient version control.
 
 Feel free to reach out to me via LinkedIn or email at macharashvililuka12@gmail.com.
 
