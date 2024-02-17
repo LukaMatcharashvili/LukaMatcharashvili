@@ -6,16 +6,16 @@ I possess strong proficiency in using Linux as a developer, Docker for container
 
 During my time at Ozorix, I have contributed to various projects that have showcased my skills and versatility. These include:
 
-a. The Siemens System Builder: A powerful tool designed to assist engineers in the process of building a fire safety system equipment list.
+1. The Siemens System Builder: A powerful tool designed to assist engineers in the process of building a fire safety system equipment list.
 
-b. Fleet Management System: I contributed to the development of a sophisticated system leveraging AWS IoT, enabling efficient management and monitoring of fleets.
+2. Fleet Management System: I contributed to the development of a sophisticated system leveraging AWS IoT, enabling efficient management and monitoring of fleets.
 
-c. Food Delivery Software: I actively worked on order processing and price calculation logic.
+3. Food Delivery Software: I actively worked on order processing and price calculation logic.
 
-d. Currently working on CMS for Real Estate Website.
+4. CMS for Real Estate Website.
 
 Feel free to reach out to me via LinkedIn or email at macharashvililuka12@gmail.com.
 
-LinkedIn: https://www.linkedin.com/in/luka-macharashvili-164504237/
+LinkedIn: https://www.linkedin.com/in/luka-matcharashvili-164504237/
 
-GitHub: https://github.com/LukaMacharashvili
+GitHub: https://github.com/LukaMatcharashvili
